@@ -1,2 +1,1 @@
-# PreapCouse-henry
-Es un repositoio del modulo 2 del preap course de Henry
+Este proyecto es un ejemplo para ver como se crea un repositotio de githib y como clonarlo a mi pc
